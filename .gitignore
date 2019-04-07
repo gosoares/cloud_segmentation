@@ -1,2 +1,4 @@
 .idea/
 data*/
+landsat8*/
+.fuse_hidden*
